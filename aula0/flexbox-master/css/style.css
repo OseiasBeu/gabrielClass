@@ -1,0 +1,36 @@
+/*TAG's*/
+
+body{
+    margin:0;
+}
+section{
+    display:flex;
+    justify-content: space-around;
+    align-items:center;
+    flex-wrap: wrap;
+    background-color: yellowgreen;
+    height: 100vh;
+
+}
+
+div{
+    width: 100px;
+    height: 100px;
+}
+
+/*CLASSES*/
+.azul{
+    background-color: blue;
+}
+
+
+.vermelho{
+    background-color: red;
+}
+
+
+.preto{
+    background-color: black;
+}
+
+

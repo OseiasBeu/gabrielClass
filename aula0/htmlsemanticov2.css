@@ -1,0 +1,60 @@
+body{
+    margin:0px;
+}
+#navegacao{
+    /* border:1px dotted blue; */
+
+
+
+}
+
+.cabeca{
+    border: 1px solid black;
+    height: 15vh;
+    width: 100vw;
+
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    border:1px solid black;
+}
+
+#sessao{
+    display:flex;
+    border:1px solid black;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+}
+
+main{
+    border:1px dotted green;
+    width: 50%;
+    height:75%;
+}
+
+figure{
+    height:75%;
+    border:1px dotted blue;
+    width: 50%;
+}
+
+
+img{
+    width: 400px;
+    height: 400px;
+}
+
+footer{
+    border:1px solid black;
+    width: 100vw;
+    height: 15vh;
+
+}
