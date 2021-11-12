@@ -1,0 +1,5 @@
+Display flex -> https://flexboxfroggy.com/#pt-br
+DIsplay flex -> https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+documentação html5 -> https://www.w3schools.com/html/html_intro.asp
+documentação css3 -> https://www.w3schools.com/css/default.asp
